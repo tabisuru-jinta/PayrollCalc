@@ -19,6 +19,7 @@ namespace PayrollCalculation
         public MainWindow()
         {
             InitializeComponent();
+            // editing now
         }
     }
 }
